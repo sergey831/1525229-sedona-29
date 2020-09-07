@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Сережа Занько](https://up.htmlacademy.ru/htmlcss/29/user/1525229).
-* Наставник: `Неизвестно`.
+* Наставник: `[Илья Приходкин](https://htmlacademy.ru/profile/prikhodkin)`.
 
 ---
 
