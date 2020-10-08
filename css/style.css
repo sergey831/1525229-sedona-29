@@ -829,7 +829,7 @@ img {
     padding-right: 10px;
 }
 
-.footer-visit-link {
+.page-footer-visit-link {
     font-size: 21px;
     line-height: 26px;
     font-weight: 700;
@@ -845,12 +845,12 @@ img {
     text-decoration: none;
 }
 
-.footer-visit-link:hover,
-.footer-visit-link:focus {
+.page-footer-visit-link:hover,
+.page-footer-visit-link:focus {
     color: #81b3d2;
 }
 
-.footer-visit-link:active {
+.page-footer-visit-link:active {
     color: rgba(0, 0, 0, 0.3);
 }
 
